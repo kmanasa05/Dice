@@ -3,7 +3,7 @@ function rollDice(){
 
 var randomdiceimage="dice"+ randomnumber1 + ".png";
 
-var randomimagesource1="images/"+ randomdiceimage;
+var randomimagesource1=randomdiceimage;
 
 var image1=document.querySelectorAll("img")[0];
 
